@@ -1,0 +1,54 @@
+2026-10-13 10:23:04 STEP 02 | GSE196198 | Seurat PBMC UMAP
+2026-10-13 10:23:04 Data directory: /home/ibab/Downloads/sem3/ngs-IA2_seurat
+2026-10-13 10:23:04 R version: R version 4.5.3 (2026-03-11)
+2026-10-13 10:23:07 Seurat version: 5.5.1
+2026-10-13 10:23:07 SeuratObject version: 5.4.0
+2026-10-13 10:23:07 Using prenormalized, signed integrated values as DATA, never as counts.
+2026-10-13 10:23:07 Reading PBMC metadata...
+2026-10-13 10:23:09 PBMC metadata cells: 399044
+2026-10-13 10:23:09 QC eligible cells: 399044/399044
+2026-10-13 10:23:09 Reading the huge expression-file header (no full matrix read)...
+2026-10-13 10:23:09 Detected expression separator: whitespace
+2026-10-13 10:23:10 Expression header parsed fields: 399044 (expected 399044 or 399045)
+2026-10-13 10:23:11 RNA cell IDs matched to metadata: 399044 exactly
+2026-10-13 10:23:11 First gene row: IGKV3-11 | parsed values: 399044
+2026-10-13 10:23:12 Proportionally stratified sampled cells: 40000 / 399044 (10.0%)
+2026-10-13 10:23:12 WARNING: This sampled UMAP cannot be claimed as an exact paper Figure S2A reproduction.
+2026-10-13 10:23:12 Estimated ONE dense double matrix: 0.54 GiB; PCA and Seurat need more RAM for working copies.
+2026-10-13 10:23:12 Streaming expression table (this can take several minutes)...
+2026-10-13 10:24:03 Read gene rows: 100/1800
+2026-10-13 10:24:56 Read gene rows: 200/1800
+2026-10-13 10:25:51 Read gene rows: 300/1800
+2026-10-13 10:26:44 Read gene rows: 400/1800
+2026-10-13 10:27:35 Read gene rows: 500/1800
+2026-10-13 10:28:28 Read gene rows: 600/1800
+2026-10-13 10:29:21 Read gene rows: 700/1800
+2026-10-13 10:30:16 Read gene rows: 800/1800
+2026-10-13 10:31:08 Read gene rows: 900/1800
+2026-10-13 10:31:59 Read gene rows: 1000/1800
+2026-10-13 10:32:53 Read gene rows: 1100/1800
+2026-10-13 10:33:46 Read gene rows: 1200/1800
+2026-10-13 10:34:40 Read gene rows: 1300/1800
+2026-10-13 10:35:31 Read gene rows: 1400/1800
+2026-10-13 10:36:23 Read gene rows: 1500/1800
+2026-10-13 10:37:14 Read gene rows: 1600/1800
+2026-10-13 10:38:06 Read gene rows: 1700/1800
+2026-10-13 10:38:58 Read gene rows: 1800/1800
+2026-10-13 10:39:00 Loaded expression rows/columns: 1800 x 40000
+2026-10-13 10:39:00 Sampled expression range: -4.7135 to 9.6953
+2026-10-13 10:39:00 Creating Seurat data-only assay and object...
+2026-10-13 10:39:03 Scaling 1800 supplied genes for exploratory PCA...
+2026-10-13 10:39:16 PCA ready. Building neighbor graph using 30 PCs...
+2026-10-13 10:39:28 Running UMAP...
+2026-10-13 10:39:55 Clusters found: 27
+2026-10-13 10:39:55 Saving completed UMAP checkpoint BEFORE figures (may take time)...
+2026-10-13 10:40:27 Saved local Seurat checkpoint: /home/ibab/Downloads/sem3/ngs-IA2_seurat/2_results/2_pbmc_seurat_sampled.rds
+2026-10-13 10:40:27 Saved figure: 2_umap_new_clusters.png
+2026-10-13 10:40:28 Saved figure: 2_umap_severity.png
+2026-10-13 10:40:28 Saved figure: 2_umap_donors.png
+2026-10-13 10:40:28 Saved figure: 2_umap_author_clusters.png
+2026-10-13 10:40:29 Saved figure: 2_pca_variance.png
+2026-10-13 10:40:29 Rendering gene markers without ordered rasterization (no ggrastr required)...
+2026-10-13 10:40:32 Saved figure: 2_umap_marker_preview.png
+2026-10-13 10:40:34 Created upload archive: /home/ibab/Downloads/sem3/ngs-IA2_seurat/2_results.zip
+2026-10-13 10:40:34 SUCCESS: next send 2_results.zip; keep 2_pbmc_seurat_sampled.rds locally.

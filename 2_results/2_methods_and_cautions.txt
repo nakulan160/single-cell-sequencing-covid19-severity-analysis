@@ -1,0 +1,13 @@
+METHOD: exploratory de novo Seurat reclustering and UMAP of GEO processed expression.
+INPUT: GSE196198_pbmc_normalized_count_integrated.txt.gz and matching metadata.
+NO RAW COUNT LAYER. No NormalizeData, SCTransform, FindVariableFeatures, RPCA, or DE.
+Cells selected: 40000 of 399044 | seed: 196198
+Genes read: 1800
+Sampling: proportionate stratified random sample from each GEO collection.
+PCA: scaled all 1800 supplied genes; PCA 30 PCs; neighbor graph using 30 PCs.
+Clustering: Louvain algorithm 1, resolution 0.5, seed 196198.
+UMAP: 30 PCs, 30 neighbors, min.dist 0.3, seed 196198.
+These analysis parameters are NOT verified as an exact copy of Kim et al. figure-generation settings.
+New clustering is not an official or exact reproduction of Supplementary Figure S2.
+Group and cluster cell counts are DESCRIPTIVE and NOT donor-level significance tests.
+Author cluster IDs were preserved in author_clusters for comparison only.

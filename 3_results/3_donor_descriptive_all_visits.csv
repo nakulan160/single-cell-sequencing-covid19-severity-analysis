@@ -1,0 +1,67 @@
+"donor_inferred","severity_broad","source_lineage","n_cells","donor_total_cells","fraction_of_all_visits"
+"C1","Asymptomatic","T cells",7543,18312,0.411915683704675
+"C1","Asymptomatic","Unassigned PBMC",4810,18312,0.262669287898646
+"C1","Asymptomatic","Conflicting membership",0,18312,0
+"C1","Asymptomatic","NK cells",2621,18312,0.143130187854958
+"C1","Asymptomatic","Monocytes",1399,18312,0.0763979903888161
+"C1","Asymptomatic","B cells",1939,18312,0.105886850152905
+"C2","Asymptomatic","Unassigned PBMC",3189,19481,0.163697962116934
+"C2","Asymptomatic","Conflicting membership",0,19481,0
+"C2","Asymptomatic","NK cells",5837,19481,0.299625275909861
+"C2","Asymptomatic","Monocytes",2138,19481,0.109747959550331
+"C2","Asymptomatic","T cells",6161,19481,0.31625686566398
+"C2","Asymptomatic","B cells",2156,19481,0.110671936758893
+"H1","Healthy","T cells",5646,21966,0.257033597377766
+"H1","Healthy","B cells",3368,21966,0.153327870345079
+"H1","Healthy","Conflicting membership",0,21966,0
+"H1","Healthy","Unassigned PBMC",5368,21966,0.244377674588
+"H1","Healthy","Monocytes",4749,21966,0.216197760174816
+"H1","Healthy","NK cells",2835,21966,0.12906309751434
+"H2","Healthy","Conflicting membership",0,18840,0
+"H2","Healthy","Unassigned PBMC",1714,18840,0.0909766454352442
+"H2","Healthy","Monocytes",2366,18840,0.125583864118896
+"H2","Healthy","NK cells",3055,18840,0.162154989384289
+"H2","Healthy","B cells",1797,18840,0.0953821656050955
+"H2","Healthy","T cells",9908,18840,0.525902335456476
+"M1","Mild","B cells",8838,53271,0.165906403108633
+"M1","Mild","T cells",17953,53271,0.337012633515421
+"M1","Mild","NK cells",11408,53271,0.214150288149274
+"M1","Mild","Unassigned PBMC",8724,53271,0.163766401982317
+"M1","Mild","Conflicting membership",0,53271,0
+"M1","Mild","Monocytes",6348,53271,0.119164273244354
+"M2","Mild","Unassigned PBMC",8490,53218,0.159532489007479
+"M2","Mild","Conflicting membership",0,53218,0
+"M2","Mild","NK cells",4933,53218,0.0926942012101169
+"M2","Mild","Monocytes",5038,53218,0.0946672178586193
+"M2","Mild","T cells",24994,53218,0.469653124882559
+"M2","Mild","B cells",9763,53218,0.183452967041227
+"S1","Severe","NK cells",6619,43379,0.152585352359437
+"S1","Severe","T cells",5586,43379,0.128771986445054
+"S1","Severe","B cells",8209,43379,0.189239032711681
+"S1","Severe","Monocytes",18437,43379,0.425021323681966
+"S1","Severe","Conflicting membership",0,43379,0
+"S1","Severe","Unassigned PBMC",4528,43379,0.104382304801863
+"S2","Severe","Conflicting membership",0,39561,0
+"S2","Severe","Unassigned PBMC",9937,39561,0.251181719370087
+"S2","Severe","Monocytes",6913,39561,0.174742802254746
+"S2","Severe","NK cells",3733,39561,0.0943606076691691
+"S2","Severe","B cells",2942,39561,0.074366168701499
+"S2","Severe","T cells",16036,39561,0.405348702004499
+"S3","Severe","Monocytes",9122,44683,0.204149229013271
+"S3","Severe","NK cells",8023,44683,0.179553745272251
+"S3","Severe","B cells",6838,44683,0.153033592193899
+"S3","Severe","T cells",12778,44683,0.285970055725891
+"S3","Severe","Unassigned PBMC",7922,44683,0.177293377794687
+"S3","Severe","Conflicting membership",0,44683,0
+"S4","Severe","Unassigned PBMC",5527,41130,0.134378798930221
+"S4","Severe","Conflicting membership",0,41130,0
+"S4","Severe","NK cells",10164,41130,0.247118891320204
+"S4","Severe","Monocytes",12073,41130,0.293532701191345
+"S4","Severe","T cells",10823,41130,0.263141259421347
+"S4","Severe","B cells",2543,41130,0.0618283491368831
+"S5","Severe","Unassigned PBMC",10606,45203,0.234630444881977
+"S5","Severe","NK cells",5068,45203,0.112116452447846
+"S5","Severe","Monocytes",11446,45203,0.253213282304272
+"S5","Severe","T cells",14649,45203,0.324071411189523
+"S5","Severe","B cells",3434,45203,0.0759684091763821
+"S5","Severe","Conflicting membership",0,45203,0

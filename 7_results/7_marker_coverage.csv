@@ -1,0 +1,9 @@
+"program","lineage","requested_markers","measured_markers","marker_coverage_pct","present","missing","expected_clusters","included_in_severity"
+"T_Naive_context","T",5,5,100,"CCR7;TCF7;LEF1;IL7R;LTB","","0+7",FALSE
+"T_Cytotoxic_2_10","T",6,6,100,"NKG7;GNLY;PRF1;GZMB;GZMK;CX3CR1","","2+10",TRUE
+"T_Cycling_13","T",2,2,100,"MKI67;CD38","","13",TRUE
+"T_Interferon_16","T",6,6,100,"ISG15;IFIT1;IFIT3;IFI6;MX1;STAT1","","16",TRUE
+"B_Naive_context","B",5,5,100,"TCL1A;IGHD;IGHM;FCER2;IL4R","","2+10+11",FALSE
+"B_Secretory_13","B",5,5,100,"JCHAIN;MZB1;XBP1;PRDM1;IGHG1","","13",TRUE
+"B_Atypical_6","B",4,4,100,"FCRL5;ITGAX;TBX21;CD86","","6",TRUE
+"B_Interferon_14","B",3,3,100,"ISG15;IFIT3;MX1","","14",TRUE

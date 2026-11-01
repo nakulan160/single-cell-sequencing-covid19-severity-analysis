@@ -1,0 +1,23 @@
+2026-10-13 14:08:52 STEP 07 | GSE196198 | Marker evidence and donor-level severity comparisons 
+2026-10-13 14:08:52 R: R version 4.5.3 (2026-03-11) | ggplot2: 4.0.3 
+2026-10-13 14:08:52 T: 17 clusters; 32 measured marker genes 
+2026-10-13 14:08:52 B: 17 clusters; 24 measured marker genes 
+2026-10-13 14:08:52 Table: 7_marker_coverage.csv (8 rows) 
+2026-10-13 14:08:52 Table: 7_requested_marker_inventory.csv (36 rows) 
+2026-10-13 14:08:52 Table: 7_all_clusters_marker_program_scores.csv (136 rows) 
+2026-10-13 14:08:52 Table: 7_candidate_cluster_marker_evidence.csv (12 rows) 
+2026-10-13 14:08:52 Table: 7_candidate_cluster_gene_level_evidence.csv (57 rows) 
+2026-10-13 14:08:53 Figure: 7_T_marker_signature_heatmap.png 
+2026-10-13 14:08:53 Figure: 7_B_marker_signature_heatmap.png 
+2026-10-13 14:08:53 Crosschecked all Step 6 candidate population counts against Steps 4 and 5. 
+2026-10-13 14:08:53 Table: 7_baseline_donors_by_clinical_group.csv (5 rows) 
+2026-10-13 14:08:53 Table: 7_first_collection_donor_program_fractions.csv (66 rows) 
+2026-10-13 14:08:53 Figure: 7_baseline_program_fractions_by_severity.png 
+2026-10-13 14:08:53 Table: 7_first_collection_group_descriptive.csv (30 rows) 
+2026-10-13 14:08:53 Table: 7_exploratory_exact_donor_permutation_tests.csv (12 rows) 
+2026-10-13 14:08:53 Exploratory exact permutations computed (discrete, tiny n; NOT confirmatory). 
+2026-10-13 14:08:53 Figure: 7_first_collection_mean_differences.png 
+2026-10-13 14:08:53 Table: 7_donor_change_direction_summary.csv (18 rows) 
+2026-10-13 14:08:54 Figure: 7_within_donor_changes_by_group.png 
+2026-10-13 14:08:54 Created archive: /home/ibab/Downloads/sem3/ngs-IA2_seurat/7_results.zip 
+2026-10-13 14:08:54 SUCCESS: Step 07 complete. Send 7_results.zip for review. 

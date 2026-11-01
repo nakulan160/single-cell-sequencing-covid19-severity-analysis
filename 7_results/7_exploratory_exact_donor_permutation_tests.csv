@@ -1,0 +1,13 @@
+"program","lineage","contrast","group_A","group_B","n_donors_A","n_donors_B","mean_percent_A","mean_percent_B","delta_percentage_points_B_minus_A","exact_two_sided_permutation_p","number_possible_assignments","BH_q_across_12_exploratory_tests"
+"T_Cytotoxic_2_10","T","Mild vs Severe (pooled)","Mild","Severe.m+Severe.s",2,5,17.0794530185989,24.5470196380232,7.46756661942428,0.571428571428571,21,0.761904761904762
+"T_Cytotoxic_2_10","T","Severe.m vs Severe.s","Severe.m","Severe.s",3,2,26.3376756623762,21.8610356014936,-4.47664006088263,0.9,10,0.9
+"T_Cycling_13","T","Mild vs Severe (pooled)","Mild","Severe.m+Severe.s",2,5,1.91579318022217,1.66206164516006,-0.253731535062101,0.666666666666667,21,0.8
+"T_Cycling_13","T","Severe.m vs Severe.s","Severe.m","Severe.s",3,2,1.41259222411758,2.03626577672379,0.623673552606218,0.4,10,0.761904761904762
+"T_Interferon_16","T","Mild vs Severe (pooled)","Mild","Severe.m+Severe.s",2,5,1.92701517013534,0.088296892646992,-1.83871827748835,0.0476190476190476,21,0.571428571428571
+"T_Interferon_16","T","Severe.m vs Severe.s","Severe.m","Severe.s",3,2,0.04151100041511,0.158475730994815,0.116964730579705,0.3,10,0.761904761904762
+"B_Secretory_13","B","Mild vs Severe (pooled)","Mild","Severe.m+Severe.s",2,5,0.788319646250929,8.32404991185998,7.53573026560905,0.285714285714286,21,0.761904761904762
+"B_Secretory_13","B","Severe.m vs Severe.s","Severe.m","Severe.s",3,2,11.5750893510643,3.44749075305345,-8.12759859801089,0.2,10,0.761904761904762
+"B_Atypical_6","B","Mild vs Severe (pooled)","Mild","Severe.m+Severe.s",2,5,1.91010500784401,4.61461216790961,2.7045071600656,0.523809523809524,21,0.761904761904762
+"B_Atypical_6","B","Severe.m vs Severe.s","Severe.m","Severe.s",3,2,5.05363840423708,3.95607281341841,-1.09756559081867,0.9,10,0.9
+"B_Interferon_14","B","Mild vs Severe (pooled)","Mild","Severe.m+Severe.s",2,5,1.31061992820939,0.910233640890192,-0.400386287319196,0.571428571428571,21,0.761904761904762
+"B_Interferon_14","B","Severe.m vs Severe.s","Severe.m","Severe.s",3,2,1.10772580906199,0.613995388632496,-0.493730420429494,0.5,10,0.761904761904762

@@ -1,0 +1,33 @@
+"category","gene","present"
+"B-cell lineage","MS4A1",TRUE
+"B-cell lineage","CD19",FALSE
+"B-cell lineage","CD79A",FALSE
+"B-cell lineage","CD79B",FALSE
+"B-cell lineage","CD22",FALSE
+"B-cell lineage","CD74",TRUE
+"Naive B candidates","TCL1A",TRUE
+"Naive B candidates","IGHD",TRUE
+"Naive B candidates","IGHM",TRUE
+"Naive B candidates","FCER2",TRUE
+"Naive B candidates","IL4R",TRUE
+"Memory B candidates","CD27",TRUE
+"Memory B candidates","TNFRSF13B",TRUE
+"Memory B candidates","BANK1",FALSE
+"Memory B candidates","AIM2",TRUE
+"Memory B candidates","CD80",TRUE
+"Atypical/activated B candidates","FCRL5",TRUE
+"Atypical/activated B candidates","ITGAX",TRUE
+"Atypical/activated B candidates","TBX21",TRUE
+"Atypical/activated B candidates","FCRL4",FALSE
+"Atypical/activated B candidates","CD86",TRUE
+"Plasma/secretory candidates","JCHAIN",TRUE
+"Plasma/secretory candidates","MZB1",TRUE
+"Plasma/secretory candidates","XBP1",TRUE
+"Plasma/secretory candidates","PRDM1",TRUE
+"Plasma/secretory candidates","SDC1",FALSE
+"Plasma/secretory candidates","IGHG1",TRUE
+"Proliferation/interferon candidates","MKI67",FALSE
+"Proliferation/interferon candidates","TOP2A",TRUE
+"Proliferation/interferon candidates","ISG15",TRUE
+"Proliferation/interferon candidates","IFIT3",TRUE
+"Proliferation/interferon candidates","MX1",TRUE

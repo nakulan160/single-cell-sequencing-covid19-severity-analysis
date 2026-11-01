@@ -1,0 +1,13 @@
+GSE196198 STEP 06: PRELIMINARY DONOR-AWARE DESCRIPTIVE TRAJECTORIES
+Data sources: completed 4_results/ and 5_results/ per-sample cluster tables.
+B and T samples: 25 | inferred donors: 11
+All proportions have lineage-specific denominators (sampled T or sampled B cells).
+Within each donor, codes 1, 2, 4 are supplied collection identifiers, not confirmed days.
+Do not interpret Severe.m and Severe.s as specified clinical trajectories without published metadata confirmation.
+Healthy and asymptomatic donors each contribute one collection. Mild/severe donors contribute repeated collections.
+Candidate clusters were selected POST HOC from Step 4 and Step 5 RNA marker heatmaps; labels require validation.
+Group summaries use individual donor/sample fractions; NOT independent single-cell observations.
+No hypothesis tests, p-values, causal claims, normalized UMI counts, or differential-expression analysis.
+Processed GEO integrated expression values are NOT a suitable replacement for raw count-based DE.
+Differences may reflect donor heterogeneity, variable cell capture, sampling, and treatment/timing confounders.
+Plots and cell frequencies support exploratory replication, not an exact reproduction of the paper's main figures.

@@ -1,0 +1,9 @@
+"receptor","flag","present","passing","total"
+"TCR","is_cell",FALSE,,310120
+"TCR","high_confidence",FALSE,,310120
+"TCR","full_length",FALSE,,310120
+"TCR","productive",FALSE,,310120
+"BCR","is_cell",TRUE,193400,193400
+"BCR","high_confidence",TRUE,193400,193400
+"BCR","full_length",TRUE,193400,193400
+"BCR","productive",TRUE,193400,193400

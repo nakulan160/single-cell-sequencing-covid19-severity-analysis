@@ -1,0 +1,2 @@
+STEP 02 FAILED: Please install ggrastr from CRAN to enable ordered rasterization.
+No traceback available 

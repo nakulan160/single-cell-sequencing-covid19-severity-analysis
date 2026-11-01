@@ -1,0 +1,25 @@
+GSE196198 Kim et al. STEP 03: annotation method and cautions
+Input PBMC cells (full metadata): 399044
+Existing Step 2 sampled UMAP cells: 40000
+New analysis clusters: 27
+Cell-level source_lineage is transferred by EXACT canonical id.match keys from
+the original T_cell, B_cell, NK_cell and Monocyte metadata, which are
+author-processed subsets of the SAME PBMC cohort.
+This is a reference/source-membership label, NOT an independent unsupervised
+or SingleR-based annotation of every cell.
+Cells not in any source subset remain Unassigned PBMC. Membership in two
+or more sources is explicitly labeled Conflicting membership.
+Cluster labels are assigned only if a known source category has >=70% of
+sampled cells AND at least a 20 percentage-point lead over runner-up.
+Otherwise cluster_report_label is Mixed/unresolved. Labels are tentative.
+The gene heatmap uses signed PREPROCESSED GEO RNA values; each gene is
+standardized across new cluster means, NOT count normalization.
+Do not interpret negative entries as negative RNA molecules.
+No new NormalizeData, SCTransform, RPCA, DE, pseudobulk, or independent
+SingleR annotation was run.
+Full-cohort composition is based on original metadata of all 399,044 cells;
+UMAP/cluster purity is based only on the proportional 40,000-cell sample.
+25 visits are not 25 independent individuals. Severity comparisons need
+patient-level design and appropriate inferential methods.
+Multiomics Figure S2D is NOT reproduced here, and Figure S2A-C are
+exploratory analogous visualizations, NOT pixel-exact reproductions.

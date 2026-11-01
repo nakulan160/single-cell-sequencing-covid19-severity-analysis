@@ -1,0 +1,36 @@
+"category","gene","present"
+"T lineage","CD3D",FALSE
+"T lineage","CD3E",FALSE
+"T lineage","TRAC",TRUE
+"CD4 naive-memory candidates","CD4",TRUE
+"CD4 naive-memory candidates","IL7R",TRUE
+"CD4 naive-memory candidates","CCR7",TRUE
+"CD4 naive-memory candidates","LTB",TRUE
+"CD4 naive-memory candidates","TCF7",TRUE
+"CD4 naive-memory candidates","LEF1",TRUE
+"CD8 cytotoxic candidates","CD8A",TRUE
+"CD8 cytotoxic candidates","CD8B",TRUE
+"CD8 cytotoxic candidates","NKG7",TRUE
+"CD8 cytotoxic candidates","GNLY",TRUE
+"CD8 cytotoxic candidates","PRF1",TRUE
+"CD8 cytotoxic candidates","GZMB",TRUE
+"CD8 cytotoxic candidates","GZMK",TRUE
+"CD8 cytotoxic candidates","CX3CR1",TRUE
+"Activation/checkpoints","CD38",TRUE
+"Activation/checkpoints","HLA-DRA",TRUE
+"Activation/checkpoints","PDCD1",TRUE
+"Activation/checkpoints","LAG3",TRUE
+"Activation/checkpoints","TIGIT",TRUE
+"Activation/checkpoints","TOX",TRUE
+"Activation/checkpoints","MKI67",TRUE
+"Interferon response candidates","ISG15",TRUE
+"Interferon response candidates","IFIT1",TRUE
+"Interferon response candidates","IFIT3",TRUE
+"Interferon response candidates","IFI6",TRUE
+"Interferon response candidates","STAT1",TRUE
+"Interferon response candidates","MX1",TRUE
+"Metabolic candidates","GAPDH",TRUE
+"Metabolic candidates","LDHA",TRUE
+"Metabolic candidates","ENO1",TRUE
+"Metabolic candidates","PKM",TRUE
+"Metabolic candidates","NDUFA1",FALSE

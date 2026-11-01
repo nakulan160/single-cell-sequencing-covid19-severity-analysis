@@ -1,0 +1,49 @@
+2026-10-13 13:40:16 STEP 05 | B-cell-specific Seurat processed-RNA atlas | Kim et al. GSE196198 
+2026-10-13 13:40:16 Data directory: /home/ibab/Downloads/sem3/ngs-IA2_seurat 
+2026-10-13 13:40:18 R: R version 4.5.3 (2026-03-11) | Seurat: 5.5.1 
+2026-10-13 13:40:18 INPUT LAYER = previously integrated signed RNA; never raw UMI counts 
+2026-10-13 13:40:18 Reading all B-cell metadata... 
+2026-10-13 13:40:18 B-cell records: 51827 | sample labels: 25 
+2026-10-13 13:40:18 Supplied B cells meeting published QC thresholds: 51827/51827 
+2026-10-13 13:40:18 Reading expression header and validating all B-cell column identifiers... 
+2026-10-13 13:40:19 Full matrix-header match: 51827/51827; separator = whitespace 
+2026-10-13 13:40:19 Sample-balanced proportional sampling: 40000/51827 cells, seed 196198 
+2026-10-13 13:40:19 First gene: IGLV2-23 | values: 51827 
+2026-10-13 13:40:19 Streaming 2000 gene rows; storing selected cells only 
+2026-10-13 13:40:19 Estimated dense double expression matrix = 0.60 GiB; Seurat requires additional working memory 
+2026-10-13 13:40:28 Expression genes read: 100/2000 
+2026-10-13 13:40:36 Expression genes read: 200/2000 
+2026-10-13 13:40:44 Expression genes read: 300/2000 
+2026-10-13 13:40:53 Expression genes read: 400/2000 
+2026-10-13 13:41:02 Expression genes read: 500/2000 
+2026-10-13 13:41:10 Expression genes read: 600/2000 
+2026-10-13 13:41:18 Expression genes read: 700/2000 
+2026-10-13 13:41:27 Expression genes read: 800/2000 
+2026-10-13 13:41:35 Expression genes read: 900/2000 
+2026-10-13 13:41:44 Expression genes read: 1000/2000 
+2026-10-13 13:41:53 Expression genes read: 1100/2000 
+2026-10-13 13:42:01 Expression genes read: 1200/2000 
+2026-10-13 13:42:09 Expression genes read: 1300/2000 
+2026-10-13 13:42:18 Expression genes read: 1400/2000 
+2026-10-13 13:42:26 Expression genes read: 1500/2000 
+2026-10-13 13:42:34 Expression genes read: 1600/2000 
+2026-10-13 13:42:43 Expression genes read: 1700/2000 
+2026-10-13 13:42:52 Expression genes read: 1800/2000 
+2026-10-13 13:43:00 Expression genes read: 1900/2000 
+2026-10-13 13:43:08 Expression genes read: 2000/2000 
+2026-10-13 13:43:09 Expression range (sample): -5.039 to 9.481 
+2026-10-13 13:43:11 Created data-only Seurat v5 object. NO invented counts / NormalizeData / SCTransform. 
+2026-10-13 13:44:10 New B-cell clusters: 17 
+2026-10-13 13:44:10 Saving local checkpoint BEFORE plotting: /home/ibab/Downloads/sem3/ngs-IA2_seurat/5_results/5_bcell_seurat_processed_sampled.rds 
+2026-10-13 13:44:47 Checkpoint saved; if plotting fails, rerun with GSE_BCELL_REUSE=1 
+2026-10-13 13:44:47 Figure: 5_bcell_umap_clusters.png 
+2026-10-13 13:44:48 Figure: 5_bcell_umap_severity.png 
+2026-10-13 13:44:48 Figure: 5_bcell_umap_severity2.png 
+2026-10-13 13:44:48 Figure: 5_bcell_umap_donor.png 
+2026-10-13 13:44:48 Figure: 5_bcell_umap_author_clusters.png 
+2026-10-13 13:44:49 Figure: 5_bcell_cluster_composition_by_sample.png 
+2026-10-13 13:44:49 Available tested marker genes: 24/32 
+2026-10-13 13:44:50 Figure: 5_bcell_marker_heatmap.png 
+2026-10-13 13:44:55 Figure: 5_bcell_marker_featureplots.png 
+2026-10-13 13:44:56 Created upload ZIP: /home/ibab/Downloads/sem3/ngs-IA2_seurat/5_results.zip 
+2026-10-13 13:44:56 SUCCESS: Step 05 complete. Send 5_results.zip; retain checkpoint locally. 

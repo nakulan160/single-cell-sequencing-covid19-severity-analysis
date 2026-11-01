@@ -1,0 +1,35 @@
+2026-10-13 14:20:35 STEP 08 | Processed RNA: donor-level descriptive gene contrasts 
+2026-10-13 14:20:35 R: R version 4.5.3 (2026-03-11) | Seurat: 5.5.1 
+2026-10-13 14:20:35 No raw count layer, no log fold changes, no count-based DE. 
+2026-10-13 14:20:35 Minimum sampled cells per donor/collection/context: 20 
+2026-10-13 14:20:35 First-recorded collection distribution:  Asymptomatic      Healthy         Mild     Severe.m     Severe.s             2            2            2            3            2  
+2026-10-13 14:20:35 Reading T checkpoint: /home/ibab/Downloads/sem3/ngs-IA2_seurat/4_results/4_tcell_seurat_processed_sampled.rds 
+2026-10-13 14:20:42 T: 40000 sampled cells and 2000 processed genes 
+2026-10-13 14:20:43 T: 13/14 prespecified genes available 
+2026-10-13 14:20:44 T_all: 25 / 25 collections with >=20 cells 
+2026-10-13 14:20:44     Baseline comparison: Mild n=2 vs pooled Severe n=5; genes=2000; min p=0.0476; min BH q=1 
+2026-10-13 14:20:46 T_cytotoxic_2_10: 24 / 25 collections with >=20 cells 
+2026-10-13 14:20:46     Baseline comparison: Mild n=2 vs pooled Severe n=5; genes=2000; min p=0.0476; min BH q=1 
+2026-10-13 14:20:47 T_naive_0_7: 25 / 25 collections with >=20 cells 
+2026-10-13 14:20:47     Baseline comparison: Mild n=2 vs pooled Severe n=5; genes=2000; min p=0.0476; min BH q=1 
+2026-10-13 14:20:47 T_interferon_16: 2 / 25 collections with >=20 cells 
+2026-10-13 14:20:47     SKIPPED severity contrast (Mild n=2, Severe n=0 first-collection donors passing minimum-cell threshold) 
+2026-10-13 14:20:47 Released T Seurat object before next lineage 
+2026-10-13 14:20:47 Reading B checkpoint: /home/ibab/Downloads/sem3/ngs-IA2_seurat/5_results/5_bcell_seurat_processed_sampled.rds 
+2026-10-13 14:20:54 B: 40000 sampled cells and 2000 processed genes 
+2026-10-13 14:20:54 B: 13/14 prespecified genes available 
+2026-10-13 14:20:56 B_all: 25 / 25 collections with >=20 cells 
+2026-10-13 14:20:56     Baseline comparison: Mild n=2 vs pooled Severe n=5; genes=2000; min p=0.0476; min BH q=0.733 
+2026-10-13 14:20:56 B_secretory_13: 10 / 25 collections with >=20 cells 
+2026-10-13 14:20:56     SKIPPED severity contrast (Mild n=1, Severe n=4 first-collection donors passing minimum-cell threshold) 
+2026-10-13 14:20:57 B_atypical_6: 20 / 25 collections with >=20 cells 
+2026-10-13 14:20:57     Baseline comparison: Mild n=2 vs pooled Severe n=3; genes=2000; min p=0.1; min BH q=0.915 
+2026-10-13 14:20:58 B_interferon_14: 7 / 25 collections with >=20 cells 
+2026-10-13 14:20:58     SKIPPED severity contrast (Mild n=2, Severe n=1 first-collection donors passing minimum-cell threshold) 
+2026-10-13 14:20:58 Released B Seurat object before next lineage 
+2026-10-13 14:20:58 Saved all gene contrasts, coverage, marker expression and targeted-gene inventory 
+2026-10-13 14:20:58 Figure: 8_first_collection_gene_expression.png 
+2026-10-13 14:20:58 Figure: 8_selected_gene_mean_differences.png 
+2026-10-13 14:20:59 Figure: 8_within_donor_marker_trajectories.png 
+2026-10-13 14:20:59 Created upload ZIP: /home/ibab/Downloads/sem3/ngs-IA2_seurat/8_results.zip 
+2026-10-13 14:20:59 SUCCESS | Step 08 complete. Upload 8_results.zip. 

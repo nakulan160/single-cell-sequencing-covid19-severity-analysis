@@ -1,0 +1,9 @@
+"lineage","context","description","sampled_context_cells.min","sampled_context_cells.max","sampled_context_cells.total"
+"B","B_all","All sampled B cells",  428, 2805,40000
+"T","T_all","All sampled T cells",  239, 3001,40000
+"B","B_atypical_6","Atypical-like B cluster",    6,  294, 1345
+"T","T_cytotoxic_2_10","Cytotoxic-like T clusters",   13,  626, 6323
+"B","B_interferon_14","Interferon-like B cluster",    0,   51,  339
+"T","T_interferon_16","Interferon-like T cluster",    0,   63,  160
+"T","T_naive_0_7","Naive-like T clusters",   23, 1165,10504
+"B","B_secretory_13","Secretory/plasmablast-like B cluster",    1,   80,  513

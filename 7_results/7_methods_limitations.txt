@@ -1,0 +1,21 @@
+GSE196198 | STEP 07 | Marker evidence and exploratory donor-aware severity comparisons
+Inputs: completed Step 4/5 marker mean and sample-composition CSVs; Step 6 program/clinical CSVs.
+Donors: 11 | Initial donor counts: Asymptomatic=2; Healthy=2; Mild=2; Severe.m=3; Severe.s=2
+New T/B clusters are from proportionate 40k-cell samples per lineage, not the complete cohort.
+Marker program Z-scores are computed FROM THE SAME processed RNA matrix that was used to select clusters.
+Marker consistency uses an arbitrary descriptive rule: mean gene z >=0.75 and at least half genes z >=0.5.
+Leave-one-marker-out top-three fraction is a signature sensitivity check, NOT validation on new data.
+Therefore marker agreement is corroboration of an exploratory label, NOT independent subtype validation.
+Scores represent across-cluster standardized gene means and cannot be treated as single-cell signature scores.
+One first-recorded collection per donor is used for all cross-sectional severity contrasts.
+Mild versus pooled Severe is distinct from Severe.m versus Severe.s; source labels are preserved.
+The clinical meaning of Severe.m versus Severe.s has NOT been independently established.
+Permutation comparisons use DONORS as the exchangeable unit and unweighted sample percentages.
+Even if p<0.05, any test here is exploratory due to post-hoc clusters and donor sample sizes of 2 to 5.
+Exact p values are discrete and very low-powered; BH q values are across 12 exploratory tests.
+Disease severity, patient, treatment, batch and collection code may be confounded.
+Within-donor collection identifiers 1/2/4 are not established elapsed days.
+T and B percentages use DIFFERENT denominators (sampled cells of their own lineage).
+No raw UMI counts, valid pseudo-bulk DE, mass-normalized gene DE, CITE-seq or receptor validation is performed.
+In particular, this stage is NOT a full reproduction of the original paper subtype or severity figures.
+The processed RNA marker panel has missing genes and author integration may reduce biological contrasts.

@@ -1,0 +1,15 @@
+Kim et al. 2023 GSE196198 | Step 05
+Target: preliminary B-cell RNA-only panels related to S7A/B.
+Input: GSE196198_B_cell_normalized_count_integrated.txt.gz plus matching metadata.
+Input B-cell metadata records: 51827
+Selected cells: 40000  | supplied genes: 2000
+Input values contain negative noninteger entries; these are author-processed integrated RNA, NOT raw UMI counts.
+Created a Seurat v5 assay with a DATA layer, without inventing a counts layer.
+No NormalizeData, SCTransform, FindVariableFeatures, RPCA, FindAllMarkers or inferential DE.
+Original paper annotates B cells with combined RNA, antibody and BCR evidence; we have not reproduced that full procedure.
+Naive/memory/atypical/plasma programs are descriptive candidate marker signatures; no definitive B-cell subtypes assigned.
+Figures describe a proportional random sample by sample; not an exact reproduction of author UMAP coordinates or complete-cohort figures.
+Clinical severe categories are preserved exactly as severity2; no unsupported mapping to usual/delayed severe.
+Repeated visits belong to the same donors. Cell counts/stacked bars are descriptive and do not prove severity associations.
+Somatic hypermutation, BCR lineage relationships and severity-associated expression require later dedicated analysis.
+Saved local RDS checkpoint is deliberately excluded from 5_results.zip.

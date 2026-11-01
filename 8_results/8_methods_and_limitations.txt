@@ -1,0 +1,19 @@
+GSE196198 | STEP 08 | Exploratory processed RNA gene-expression comparisons
+INPUT: Local Step 4 and Step 5 sampled Seurat checkpoints (NOT uploaded ZIPs).
+Layer RNA/data contains previously integrated signed author values, not raw UMI counts.
+One recorded first collection per inferred donor is used in clinical severity contrasts.
+Mild n=2; pooled Severe.m + Severe.s n=5 before per-context minimum-cell filtering.
+Minimum sampled cells per donor/collection/context: 20
+Sample/donor IDs and severity labels cross-checked against Step 6 clinical index.
+For each gene, mean integrated value per donor per context; donors are independent units.
+Difference: severe minus mild mean of donor means in PROCESSED EXPRESSION UNITS.
+Difference is NOT log2FC, raw-count DE, cell-level statistical significance, or absolute RNA abundance.
+Exact donor-label permutation over all assignments; two-sided; BH q across measured genes WITHIN CONTEXT.
+Some small clusters have too few cells/donors and are intentionally not tested.
+No statistically confirmatory inference: tiny n, post-hoc cluster selection, confounding, integration effects.
+Multiple contexts tested, but q values are not jointly adjusted across contexts.
+Gene rankings highlight hypotheses only; the marker panel is filtered by availability.
+Visit codes are collection identifiers; they are not known time intervals.
+Next requirement for conventional DE: obtain raw/unintegrated UMI counts, validate sample IDs,
+aggregate donor-by-cell-state counts, and fit a donor-aware count model if adequately powered.
+Not an exact reproduction of the paper DE results.

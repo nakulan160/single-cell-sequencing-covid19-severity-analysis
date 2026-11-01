@@ -1,0 +1,3 @@
+"receptor","contigs","contig_cells","rna_matched_contig_cells","eligible_contigs","bad_sequence","invalid_gene","unresolved_flag_passing_cells","single_pair_cells","subset_valid_pairs"
+"TCR",310120,160565,146382,310034,0,0,86,115142,96070
+"BCR",193400,108084,67011,193394,0,0,6,65545,44349

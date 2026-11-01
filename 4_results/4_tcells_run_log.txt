@@ -1,0 +1,15 @@
+2026-10-13 11:56:16 STEP 04 | T-cell-specific Seurat processed-RNA atlas | Kim et al. GSE196198 
+2026-10-13 11:56:16 Data directory: /home/ibab/Downloads/sem3/ngs-IA2_seurat 
+2026-10-13 11:56:18 R: R version 4.5.3 (2026-03-11) | Seurat: 5.5.1 
+2026-10-13 11:56:18 INPUT LAYER = previously integrated signed RNA; never raw UMI counts 
+2026-10-13 11:56:18 Recovery mode: using existing saved checkpoint 
+2026-10-13 11:56:26 Figure: 4_tcell_umap_clusters.png 
+2026-10-13 11:56:26 Figure: 4_tcell_umap_severity.png 
+2026-10-13 11:56:26 Figure: 4_tcell_umap_severity2.png 
+2026-10-13 11:56:27 Figure: 4_tcell_umap_donor.png 
+2026-10-13 11:56:27 Figure: 4_tcell_cluster_composition_by_sample.png 
+2026-10-13 11:56:27 Available tested marker genes: 32/35 
+2026-10-13 11:56:28 Figure: 4_tcell_marker_heatmap.png 
+2026-10-13 11:56:33 Figure: 4_tcell_marker_featureplots.png 
+2026-10-13 11:56:34 Created upload ZIP: /home/ibab/Downloads/sem3/ngs-IA2_seurat/4_results.zip 
+2026-10-13 11:56:34 SUCCESS: Step 04 complete. Send 4_results.zip; retain checkpoint locally. 

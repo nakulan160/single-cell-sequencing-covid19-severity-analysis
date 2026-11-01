@@ -1,0 +1,14 @@
+2026-10-13 15:02:40 STEP 09 | Kim et al. (2023) | paired TCR/BCR, longitudinal clone tracking 
+2026-10-13 15:02:41 Reusing existing Step 9 receptor checkpoint... 
+2026-10-13 15:02:45 Figure: 9_S1A_clone_size_distribution.png 
+2026-10-13 15:02:46 Figure: 9_S1_B_TRBV_usage.png 
+2026-10-13 15:02:46 Figure: 9_S1_C_TRBJ_usage.png 
+2026-10-13 15:02:47 Figure: 9_S1D_TCR_top13_longitudinal.png 
+2026-10-13 15:02:47 Linking TCR paired receptors to Step 4 sampled Seurat clusters... 
+2026-10-13 15:02:54 TCR: 29146 primary paired receptor cells among sampled RNA cells 
+2026-10-13 15:02:54 Figure: 9_TCR_clone_expansion_by_RNA_cluster.png 
+2026-10-13 15:02:54 Linking BCR paired receptors to Step 5 sampled Seurat clusters... 
+2026-10-13 15:03:01 BCR: 34254 primary paired receptor cells among sampled RNA cells 
+2026-10-13 15:03:01 Figure: 9_BCR_clone_expansion_by_RNA_cluster.png 
+2026-10-13 15:03:02 Created upload ZIP: /home/ibab/Downloads/sem3/ngs-IA2_seurat/9_results.zip 
+2026-10-13 15:03:02 SUCCESS | Step 09 completed; keep 9_receptor_checkpoint.rds on your computer 

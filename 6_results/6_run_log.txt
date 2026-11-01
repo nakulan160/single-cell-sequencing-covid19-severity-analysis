@@ -1,0 +1,13 @@
+2026-10-13 13:56:13 STEP 06 | GSE196198 | Patient-aware B/T-cell cluster trajectories 
+2026-10-13 13:56:13 Step 4: 40000 cells in 25 collections and 11 donors 
+2026-10-13 13:56:13 Step 5: 40000 cells in 25 collections and 11 donors 
+2026-10-13 13:56:14 Figure: 6_trajectory_B_Secretory_13.png 
+2026-10-13 13:56:14 Figure: 6_trajectory_B_Atypical_6.png 
+2026-10-13 13:56:14 Figure: 6_trajectory_B_Interferon_14.png 
+2026-10-13 13:56:14 Figure: 6_trajectory_T_Cytotoxic_2_10.png 
+2026-10-13 13:56:15 Figure: 6_trajectory_T_Cycling_13.png 
+2026-10-13 13:56:15 Figure: 6_trajectory_T_Interferon_16.png 
+2026-10-13 13:56:15 Figure: 6_first_collection_B_secretory_T_cytotoxic.png 
+2026-10-13 13:56:15 All figure/table generation complete; packaging ZIP... 
+2026-10-13 13:56:15 Created archive: /home/ibab/Downloads/sem3/ngs-IA2_seurat/6_results.zip 
+2026-10-13 13:56:15 SUCCESS: Step 06 completed. Send 6_results.zip for review. 

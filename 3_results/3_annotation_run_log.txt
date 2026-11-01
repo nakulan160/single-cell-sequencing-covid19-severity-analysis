@@ -1,0 +1,31 @@
+2026-10-13 10:50:13 STEP 03 | GSE196198 | PBMC source-lineage annotation + verification
+2026-10-13 10:50:13 Data directory: /home/ibab/Downloads/sem3/ngs-IA2_seurat
+2026-10-13 10:50:15 Seurat version: 5.5.1
+2026-10-13 10:50:15 Loading completed Step 2 Seurat object...
+2026-10-13 10:50:21 Loaded 40000 sampled cells; 1800 supplied genes; 27 analysis clusters.
+2026-10-13 10:50:21 Reading complete PBMC metadata (full cohort)...
+2026-10-13 10:50:22 PBMC canonical id.match identifiers: 399044 unique; row names intentionally not used for subset matching.
+2026-10-13 10:50:22 Loading author-provided subset: GSE196198_T_cell_meta.data.txt.gz
+2026-10-13 10:50:22   Matched 132077 of 132077 cells in correct sample
+2026-10-13 10:50:22 Loading author-provided subset: GSE196198_B_cell_meta.data.txt.gz
+2026-10-13 10:50:23   Matched 51827 of 51827 cells in correct sample
+2026-10-13 10:50:23 Loading author-provided subset: GSE196198_NK_cell_meta.data.txt.gz
+2026-10-13 10:50:23   Matched 64296 of 64296 cells in correct sample
+2026-10-13 10:50:23 Loading author-provided subset: GSE196198_Monocyte_meta.data.txt.gz
+2026-10-13 10:50:23   Matched 80029 of 80029 cells in correct sample
+2026-10-13 10:50:23 Full PBMC source lineage counts: B cells 51827; Monocytes 80029; NK cells 64296; T cells 132077; Unassigned PBMC 70815
+2026-10-13 10:50:23 Conflicting author-subset memberships: 0
+2026-10-13 10:50:24 Full cohort composition summarized across 25 collections.
+2026-10-13 10:50:24 Mapped author-source identities to all 40000 sampled UMAP cells.
+2026-10-13 10:50:24 Clusters with source-dominant lineage: 18/27; others stay Mixed/unresolved.
+2026-10-13 10:50:25 Saving local annotated Seurat object...
+2026-10-13 10:50:55 Checkpoint saved: /home/ibab/Downloads/sem3/ngs-IA2_seurat/3_results/3_pbmc_seurat_annotated.rds
+2026-10-13 10:50:56 Figure: 3_umap_author_lineages.png
+2026-10-13 10:50:56 Figure: 3_umap_reviewed_cluster_labels.png
+2026-10-13 10:50:56 Figure: 3_umap_clusters_readable.png
+2026-10-13 10:50:56 Figure: 3_umap_severity_readable.png
+2026-10-13 10:50:57 Figure: 3_cluster_source_concordance_heatmap.png
+2026-10-13 10:50:57 Figure: 3_cluster_marker_mean_heatmap.png
+2026-10-13 10:50:57 Figure: 3_full_cohort_sample_composition.png
+2026-10-13 10:50:57 Created upload ZIP: /home/ibab/Downloads/sem3/ngs-IA2_seurat/3_results.zip
+2026-10-13 10:50:57 SUCCESS | Step 3 complete. Upload 3_results.zip; keep annotated RDS locally.

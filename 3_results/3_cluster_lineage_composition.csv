@@ -1,0 +1,163 @@
+"cluster","source_lineage","n_cells","cluster_n","fraction_within_cluster"
+"0","T cells",1,8645,0.000115673799884326
+"1","T cells",108,3929,0.0274879104097735
+"10","T cells",0,1550,0
+"11","T cells",47,875,0.0537142857142857
+"12","T cells",754,823,0.916160388821385
+"13","T cells",657,689,0.95355587808418
+"14","T cells",0,645,0
+"15","T cells",0,539,0
+"16","T cells",404,446,0.905829596412556
+"17","T cells",364,400,0.91
+"18","T cells",113,352,0.321022727272727
+"19","T cells",0,350,0
+"2","T cells",3420,3755,0.910785619174434
+"20","T cells",0,242,0
+"21","T cells",10,199,0.050251256281407
+"22","T cells",159,169,0.940828402366864
+"23","T cells",0,138,0
+"24","T cells",0,126,0
+"25","T cells",0,78,0
+"26","T cells",0,57,0
+"3","T cells",2980,3268,0.91187270501836
+"4","T cells",2307,2947,0.782829996606719
+"5","T cells",55,2320,0.0237068965517241
+"6","T cells",0,1991,0
+"7","T cells",0,1934,0
+"8","T cells",1619,1813,0.892995035852179
+"9","T cells",273,1720,0.158720930232558
+"0","B cells",0,8645,0
+"1","B cells",1,3929,0.000254517688979384
+"10","B cells",1353,1550,0.872903225806452
+"11","B cells",5,875,0.00571428571428571
+"12","B cells",0,823,0
+"13","B cells",0,689,0
+"14","B cells",0,645,0
+"15","B cells",132,539,0.244897959183673
+"16","B cells",0,446,0
+"17","B cells",0,400,0
+"18","B cells",1,352,0.00284090909090909
+"19","B cells",0,350,0
+"2","B cells",1,3755,0.000266311584553928
+"20","B cells",137,242,0.566115702479339
+"21","B cells",1,199,0.0050251256281407
+"22","B cells",0,169,0
+"23","B cells",0,138,0
+"24","B cells",0,126,0
+"25","B cells",72,78,0.923076923076923
+"26","B cells",0,57,0
+"3","B cells",0,3268,0
+"4","B cells",2,2947,0.000678656260604004
+"5","B cells",4,2320,0.00172413793103448
+"6","B cells",1830,1991,0.919136112506278
+"7","B cells",1738,1934,0.89865563598759
+"8","B cells",0,1813,0
+"9","B cells",0,1720,0
+"0","NK cells",0,8645,0
+"1","NK cells",3507,3929,0.8925935352507
+"10","NK cells",0,1550,0
+"11","NK cells",1,875,0.00114285714285714
+"12","NK cells",0,823,0
+"13","NK cells",0,689,0
+"14","NK cells",0,645,0
+"15","NK cells",0,539,0
+"16","NK cells",0,446,0
+"17","NK cells",0,400,0
+"18","NK cells",1,352,0.00284090909090909
+"19","NK cells",0,350,0
+"2","NK cells",2,3755,0.000532623169107856
+"20","NK cells",0,242,0
+"21","NK cells",178,199,0.894472361809045
+"22","NK cells",0,169,0
+"23","NK cells",0,138,0
+"24","NK cells",0,126,0
+"25","NK cells",0,78,0
+"26","NK cells",0,57,0
+"3","NK cells",0,3268,0
+"4","NK cells",13,2947,0.00441126569392603
+"5","NK cells",2125,2320,0.915948275862069
+"6","NK cells",0,1991,0
+"7","NK cells",0,1934,0
+"8","NK cells",0,1813,0
+"9","NK cells",548,1720,0.318604651162791
+"0","Monocytes",7440,8645,0.860613071139387
+"1","Monocytes",0,3929,0
+"10","Monocytes",0,1550,0
+"11","Monocytes",0,875,0
+"12","Monocytes",0,823,0
+"13","Monocytes",0,689,0
+"14","Monocytes",557,645,0.863565891472868
+"15","Monocytes",1,539,0.00185528756957328
+"16","Monocytes",0,446,0
+"17","Monocytes",0,400,0
+"18","Monocytes",0,352,0
+"19","Monocytes",0,350,0
+"2","Monocytes",0,3755,0
+"20","Monocytes",0,242,0
+"21","Monocytes",0,199,0
+"22","Monocytes",0,169,0
+"23","Monocytes",4,138,0.0289855072463768
+"24","Monocytes",0,126,0
+"25","Monocytes",0,78,0
+"26","Monocytes",0,57,0
+"3","Monocytes",0,3268,0
+"4","Monocytes",0,2947,0
+"5","Monocytes",0,2320,0
+"6","Monocytes",0,1991,0
+"7","Monocytes",0,1934,0
+"8","Monocytes",0,1813,0
+"9","Monocytes",6,1720,0.00348837209302326
+"0","Unassigned PBMC",1204,8645,0.139271255060729
+"1","Unassigned PBMC",313,3929,0.0796640366505472
+"10","Unassigned PBMC",197,1550,0.127096774193548
+"11","Unassigned PBMC",822,875,0.939428571428571
+"12","Unassigned PBMC",69,823,0.0838396111786148
+"13","Unassigned PBMC",32,689,0.04644412191582
+"14","Unassigned PBMC",88,645,0.136434108527132
+"15","Unassigned PBMC",406,539,0.753246753246753
+"16","Unassigned PBMC",42,446,0.0941704035874439
+"17","Unassigned PBMC",36,400,0.09
+"18","Unassigned PBMC",237,352,0.673295454545455
+"19","Unassigned PBMC",350,350,1
+"2","Unassigned PBMC",332,3755,0.0884154460719041
+"20","Unassigned PBMC",105,242,0.433884297520661
+"21","Unassigned PBMC",10,199,0.050251256281407
+"22","Unassigned PBMC",10,169,0.0591715976331361
+"23","Unassigned PBMC",134,138,0.971014492753623
+"24","Unassigned PBMC",126,126,1
+"25","Unassigned PBMC",6,78,0.0769230769230769
+"26","Unassigned PBMC",57,57,1
+"3","Unassigned PBMC",288,3268,0.0881272949816402
+"4","Unassigned PBMC",625,2947,0.212080081438751
+"5","Unassigned PBMC",136,2320,0.0586206896551724
+"6","Unassigned PBMC",161,1991,0.0808638874937218
+"7","Unassigned PBMC",196,1934,0.10134436401241
+"8","Unassigned PBMC",194,1813,0.107004964147821
+"9","Unassigned PBMC",893,1720,0.519186046511628
+"0","Conflicting membership",0,8645,0
+"1","Conflicting membership",0,3929,0
+"10","Conflicting membership",0,1550,0
+"11","Conflicting membership",0,875,0
+"12","Conflicting membership",0,823,0
+"13","Conflicting membership",0,689,0
+"14","Conflicting membership",0,645,0
+"15","Conflicting membership",0,539,0
+"16","Conflicting membership",0,446,0
+"17","Conflicting membership",0,400,0
+"18","Conflicting membership",0,352,0
+"19","Conflicting membership",0,350,0
+"2","Conflicting membership",0,3755,0
+"20","Conflicting membership",0,242,0
+"21","Conflicting membership",0,199,0
+"22","Conflicting membership",0,169,0
+"23","Conflicting membership",0,138,0
+"24","Conflicting membership",0,126,0
+"25","Conflicting membership",0,78,0
+"26","Conflicting membership",0,57,0
+"3","Conflicting membership",0,3268,0
+"4","Conflicting membership",0,2947,0
+"5","Conflicting membership",0,2320,0
+"6","Conflicting membership",0,1991,0
+"7","Conflicting membership",0,1934,0
+"8","Conflicting membership",0,1813,0
+"9","Conflicting membership",0,1720,0

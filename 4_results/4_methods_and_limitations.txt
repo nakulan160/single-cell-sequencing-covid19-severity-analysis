@@ -1,0 +1,15 @@
+Kim et al. 2023 GSE196198 | Step 04
+Target: preliminary T-cell RNA-only panels related to S3A/B and S4A/B.
+Input: GSE196198_T_cell_normalized_count_integrated.txt.gz plus matching metadata.
+Input T-cell metadata records: 132077
+Selected cells: 40000  | supplied genes: 2000
+Input values contain negative noninteger entries; these are author-processed integrated RNA, NOT raw UMI counts.
+Created a Seurat v5 assay with a DATA layer, without inventing a counts layer.
+No NormalizeData, SCTransform, FindVariableFeatures, RPCA, FindAllMarkers or inferential DE.
+Original paper annotates T cells with combined RNA, antibody and TCR evidence; we have not reproduced that full procedure.
+CD4/CD8 activation and cytotoxicity plots are descriptive marker signatures; no definitive CD4/CD8 subtypes assigned.
+Figures describe a proportional random sample by sample; not an exact reproduction of author UMAP coordinates or complete-cohort figures.
+Clinical severe categories are preserved exactly as severity2; no unsupported mapping to usual/delayed severe.
+Repeated visits belong to the same donors. Cell counts/stacked bars are descriptive and do not prove severity associations.
+Metabolic, interferon and GO programs need explicit gene coverage and reproducible signatures, reserved for subsequent scripts.
+Saved local RDS checkpoint is deliberately excluded from 4_results.zip.

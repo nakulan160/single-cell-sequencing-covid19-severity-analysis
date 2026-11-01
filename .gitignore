@@ -1,0 +1,7 @@
+
+# Large Seurat objects - keep locally, exclude from GitHub
+/2_results/2_pbmc_seurat_sampled.rds
+/3_results/3_pbmc_seurat_annotated.rds
+/4_results/4_tcell_seurat_processed_sampled.rds
+/5_results/5_bcell_seurat_processed_sampled.rds
+/9_results/9_receptor_checkpoint.rds

@@ -1,0 +1,14 @@
+"filename","exists","size_MB"
+"GSE196198_pbmc_meta.data.txt.gz",TRUE,8.28
+"GSE196198_T_cell_meta.data.txt.gz",TRUE,3.44
+"GSE196198_B_cell_meta.data.txt.gz",TRUE,1.25
+"GSE196198_NK_cell_meta.data.txt.gz",TRUE,1.53
+"GSE196198_Monocyte_meta.data.txt.gz",TRUE,1.93
+"GSE196198_pbmc_normalized_count_integrated.txt.gz",TRUE,5540.21
+"GSE196198_T_cell_normalized_count_integrated.txt.gz",TRUE,1992.99
+"GSE196198_B_cell_normalized_count_integrated.txt.gz",TRUE,792.96
+"GSE196198_NK_cell_normalized_count_integrated.txt.gz",TRUE,945.91
+"GSE196198_Monocyte_normalized_count_integrated.txt.gz",TRUE,1208.27
+"GSE196198_TCR_seq_data.xlsx",TRUE,45.14
+"GSE196198_BCR_seq_data.xlsx",TRUE,29.65
+"GSE196198_Feature_barcode_CITE-seq.csv.gz",TRUE,2.06

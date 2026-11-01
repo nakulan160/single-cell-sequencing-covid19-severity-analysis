@@ -1,0 +1,17 @@
+Source: Kim et al. 2023, Tracking antigen-specific TCR clonotypes in SARS-CoV-2 infection reveals distinct severity trajectories.
+GEO accession: GSE196198; user-provided supplementary figure captions and methods were consulted.
+S1A: clone size distribution by collection; S1B-C: TCR beta V/J usage; S1D: top 13 early clones tracked by donor.
+S5C: donor-collection TCR beta V-J gene-pair frequencies are supplied as tables only; NOT the authors Circos graph.
+S7G: BCR somatic hypermutation lineage reconstruction NOT reproduced here. Requires germline alignment and clone-family inference.
+TCR primary: exactly one distinct TRA and one TRB chain, including nucleotide CDR3 and V/J identity, with RNA T-subset membership.
+BCR primary: exactly one IGH and IGK/IGL chain, with supplied QC flags and RNA B-subset membership.
+Gamma/delta and ambiguous/multiple-chain cells excluded from primary TCR-alpha/beta analysis; joint TCR/BCR chain evidence excluded.
+Unique donor-scoped clone identity across visits uses exact chain type, V gene, J gene and CDR3 nucleotide sequence.
+TCR productivity is unverified if absent from the TCR workbook; do not infer experimental antigen specificity.
+Basic CDR3 nucleotide/amino-acid length and alphabet checks, not full contig sequence verification.
+All clone sizes describe captured cells, not absolute in-vivo clonal abundance.
+Donor and visit indices inferred from sample names; ordinal visits are not biological days/weeks.
+Denominator for frequency: primary paired cells in the same collection; not all PBMC cells.
+No donor-group inferential tests, DE p-values or antigen-specificity claims in this exploratory receptor stage.
+The Seurat/RNA link is limited to the existing 40,000-cell sampled T/B objects, unlike the full receptor-workbook summary.
+Missing or unpaired receptor cells should not be equated with absent antigen-specific immunity.
